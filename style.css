@@ -1,0 +1,48 @@
+
+
+#RED {
+
+color: red;
+
+}
+
+#button {
+
+background-color: aqua;
+border-radius: 10px;
+font-size: 20px;
+
+}
+
+.bloom {
+    
+font-weight: 10000000000;
+
+}
+
+.white {
+
+color: black;
+
+}
+
+#camera {
+
+height: 400px;
+width: 500px;
+border-color: black;
+
+}
+
+.result {
+
+border-radius: 30px;
+box-shadow: 0 6px 8px 0 rgba(2,2,2,0.2);
+
+}
+
+img:hover {
+
+border-radius: 50px;
+
+}
